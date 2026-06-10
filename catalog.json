@@ -135,14 +135,6 @@
       "durationSeconds": 815,
       "assetPath": "chawan.m4a",
       "isNew": true
-    },
-    {
-      "id": "test_remote_dl",
-      "title": "リモートDLテスト",
-      "category": "dowa",
-      "durationSeconds": 30,
-      "assetPath": "https://takepon7.github.io/soine-pages/test-audio.m4a",
-      "isNew": true
     }
   ]
 }
