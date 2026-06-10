@@ -1,0 +1,140 @@
+{
+  "stories": [
+    {
+      "id": "mukashi_001",
+      "title": "桃太郎",
+      "category": "mukashi",
+      "durationSeconds": 1257,
+      "assetPath": "momotaro.m4a",
+      "isNew": false
+    },
+    {
+      "id": "mukashi_002",
+      "title": "かぐや姫",
+      "category": "mukashi",
+      "durationSeconds": 1511,
+      "assetPath": "kaguya.m4a",
+      "isNew": true
+    },
+    {
+      "id": "mukashi_003",
+      "title": "浦島太郎",
+      "category": "mukashi",
+      "durationSeconds": 1160,
+      "assetPath": "urashima.m4a",
+      "isNew": false
+    },
+    {
+      "id": "rakugo_001",
+      "title": "黄金餅",
+      "category": "rakugo",
+      "durationSeconds": 1025,
+      "assetPath": "kogane.m4a",
+      "isNew": false
+    },
+    {
+      "id": "rakugo_002",
+      "title": "梅若七兵衛",
+      "category": "rakugo",
+      "durationSeconds": 860,
+      "assetPath": "umewaka.m4a",
+      "isNew": true
+    },
+    {
+      "id": "lullaby_001",
+      "title": "とんぼの眼玉",
+      "category": "lullaby",
+      "durationSeconds": 2447,
+      "assetPath": "tonbo.m4a",
+      "isNew": false
+    },
+    {
+      "id": "lullaby_002",
+      "title": "十五夜お月さん",
+      "category": "lullaby",
+      "durationSeconds": 2001,
+      "assetPath": "jugoya.m4a",
+      "isNew": false
+    },
+    {
+      "id": "lullaby_003",
+      "title": "雨情民謡百篇",
+      "category": "lullaby",
+      "durationSeconds": 2567,
+      "assetPath": "ujou_minyou.m4a",
+      "isNew": false
+    },
+    {
+      "id": "kotomuzuka_001",
+      "title": "方丈記(現代語訳)",
+      "category": "kotomuzuka",
+      "durationSeconds": 4663,
+      "assetPath": "hojoki_modern.m4a",
+      "isNew": false
+    },
+    {
+      "id": "kotomuzuka_002",
+      "title": "徒然草(現代語訳・抄)",
+      "category": "kotomuzuka",
+      "durationSeconds": 2571,
+      "assetPath": "tsurezure_modern.m4a",
+      "isNew": true
+    },
+    {
+      "id": "dowa_001",
+      "title": "夢十夜",
+      "category": "dowa",
+      "durationSeconds": 3969,
+      "assetPath": "yumejuya.m4a",
+      "isNew": true
+    },
+    {
+      "id": "dowa_002",
+      "title": "セロ弾きのゴーシュ",
+      "category": "dowa",
+      "durationSeconds": 2597,
+      "assetPath": "gauche.m4a",
+      "isNew": true
+    },
+    {
+      "id": "dowa_003",
+      "title": "手袋を買いに",
+      "category": "dowa",
+      "durationSeconds": 767,
+      "assetPath": "tebukuro.m4a",
+      "isNew": true
+    },
+    {
+      "id": "dowa_004",
+      "title": "杜子春",
+      "category": "dowa",
+      "durationSeconds": 2116,
+      "assetPath": "toshishun.m4a",
+      "isNew": true
+    },
+    {
+      "id": "dowa_005",
+      "title": "ごん狐",
+      "category": "dowa",
+      "durationSeconds": 1089,
+      "assetPath": "gongitsune.m4a",
+      "isNew": true
+    },
+    {
+      "id": "dowa_006",
+      "title": "どんぐりと山猫",
+      "category": "dowa",
+      "durationSeconds": 1432,
+      "assetPath": "donguri.m4a",
+      "isNew": true
+    },
+    {
+      "id": "kotomuzuka_003",
+      "title": "茶わんの湯",
+      "category": "kotomuzuka",
+      "durationSeconds": 815,
+      "assetPath": "chawan.m4a",
+      "isNew": true
+    }
+  ]
+}
