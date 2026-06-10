@@ -159,6 +159,14 @@
       "durationSeconds": 316,
       "assetPath": "https://pub-d39fe02d85cc4b049db527184ba0693d.r2.dev/classic/classic-003.m4a",
       "isNew": true
+    },
+    {
+      "id": "classic_004",
+      "title": "ゴルトベルク変奏曲 アリア バッハ",
+      "category": "classic",
+      "durationSeconds": 292,
+      "assetPath": "https://pub-d39fe02d85cc4b049db527184ba0693d.r2.dev/classic/classic-004.m4a",
+      "isNew": true
     }
   ]
 }
