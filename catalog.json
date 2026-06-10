@@ -143,6 +143,14 @@
       "durationSeconds": 238,
       "assetPath": "https://pub-d39fe02d85cc4b049db527184ba0693d.r2.dev/classic/chopin-nocturne-cs-minor.m4a",
       "isNew": true
+    },
+    {
+      "id": "classic_002",
+      "title": "夜想曲 Op.9-2 変ホ長調 ショパン",
+      "category": "classic",
+      "durationSeconds": 276,
+      "assetPath": "https://pub-d39fe02d85cc4b049db527184ba0693d.r2.dev/classic/classic-002.m4a",
+      "isNew": true
     }
   ]
 }
