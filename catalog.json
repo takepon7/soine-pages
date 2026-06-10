@@ -199,6 +199,14 @@
       "durationSeconds": 229,
       "assetPath": "https://pub-d39fe02d85cc4b049db527184ba0693d.r2.dev/classic/classic-008.m4a",
       "isNew": true
+    },
+    {
+      "id": "classic_009",
+      "title": "ピアノソナタ D.664 第2楽章 シューベルト",
+      "category": "classic",
+      "durationSeconds": 290,
+      "assetPath": "https://pub-d39fe02d85cc4b049db527184ba0693d.r2.dev/classic/classic-009.m4a",
+      "isNew": true
     }
   ]
 }
