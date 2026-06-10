@@ -183,6 +183,14 @@
       "durationSeconds": 339,
       "assetPath": "https://pub-d39fe02d85cc4b049db527184ba0693d.r2.dev/classic/classic-006.m4a",
       "isNew": true
+    },
+    {
+      "id": "classic_007",
+      "title": "夜想曲 Op.55-2 変ホ長調 ショパン",
+      "category": "classic",
+      "durationSeconds": 309,
+      "assetPath": "https://pub-d39fe02d85cc4b049db527184ba0693d.r2.dev/classic/classic-007.m4a",
+      "isNew": true
     }
   ]
 }
