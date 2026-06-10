@@ -175,6 +175,14 @@
       "durationSeconds": 343,
       "assetPath": "https://pub-d39fe02d85cc4b049db527184ba0693d.r2.dev/classic/classic-005.m4a",
       "isNew": true
+    },
+    {
+      "id": "classic_006",
+      "title": "夜想曲 Op.62-2 ホ長調 ショパン",
+      "category": "classic",
+      "durationSeconds": 339,
+      "assetPath": "https://pub-d39fe02d85cc4b049db527184ba0693d.r2.dev/classic/classic-006.m4a",
+      "isNew": true
     }
   ]
 }
