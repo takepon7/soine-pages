@@ -223,6 +223,14 @@
       "durationSeconds": 337,
       "assetPath": "https://pub-d39fe02d85cc4b049db527184ba0693d.r2.dev/classic/classic-011.m4a",
       "isNew": true
+    },
+    {
+      "id": "classic_012",
+      "title": "前奏曲 Op.28-15『雨だれ』 ショパン",
+      "category": "classic",
+      "durationSeconds": 295,
+      "assetPath": "https://pub-d39fe02d85cc4b049db527184ba0693d.r2.dev/classic/classic-012.m4a",
+      "isNew": true
     }
   ]
 }
