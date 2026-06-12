@@ -14,7 +14,7 @@
       "category": "mukashi",
       "durationSeconds": 1511,
       "assetPath": "kaguya.m4a",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "mukashi_003",
@@ -38,7 +38,7 @@
       "category": "rakugo",
       "durationSeconds": 860,
       "assetPath": "umewaka.m4a",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "lullaby_001",
@@ -78,7 +78,7 @@
       "category": "kotomuzuka",
       "durationSeconds": 2571,
       "assetPath": "tsurezure_modern.m4a",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "dowa_001",
@@ -86,7 +86,7 @@
       "category": "dowa",
       "durationSeconds": 3969,
       "assetPath": "yumejuya.m4a",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "dowa_002",
@@ -94,7 +94,7 @@
       "category": "dowa",
       "durationSeconds": 2597,
       "assetPath": "gauche.m4a",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "dowa_003",
@@ -102,7 +102,7 @@
       "category": "dowa",
       "durationSeconds": 767,
       "assetPath": "tebukuro.m4a",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "dowa_004",
@@ -110,7 +110,7 @@
       "category": "dowa",
       "durationSeconds": 2116,
       "assetPath": "toshishun.m4a",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "dowa_005",
@@ -118,7 +118,7 @@
       "category": "dowa",
       "durationSeconds": 1089,
       "assetPath": "gongitsune.m4a",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "dowa_006",
@@ -126,7 +126,7 @@
       "category": "dowa",
       "durationSeconds": 1432,
       "assetPath": "donguri.m4a",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "kotomuzuka_003",
@@ -134,7 +134,7 @@
       "category": "kotomuzuka",
       "durationSeconds": 815,
       "assetPath": "chawan.m4a",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "classic_001",
