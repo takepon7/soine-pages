@@ -142,7 +142,7 @@
       "category": "classic",
       "durationSeconds": 238,
       "assetPath": "https://pub-d39fe02d85cc4b049db527184ba0693d.r2.dev/classic/chopin-nocturne-cs-minor.m4a",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "classic_002",
@@ -150,7 +150,7 @@
       "category": "classic",
       "durationSeconds": 276,
       "assetPath": "https://pub-d39fe02d85cc4b049db527184ba0693d.r2.dev/classic/classic-002.m4a",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "classic_003",
@@ -158,7 +158,7 @@
       "category": "classic",
       "durationSeconds": 316,
       "assetPath": "https://pub-d39fe02d85cc4b049db527184ba0693d.r2.dev/classic/classic-003.m4a",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "classic_004",
@@ -166,7 +166,7 @@
       "category": "classic",
       "durationSeconds": 292,
       "assetPath": "https://pub-d39fe02d85cc4b049db527184ba0693d.r2.dev/classic/classic-004.m4a",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "classic_005",
@@ -174,7 +174,7 @@
       "category": "classic",
       "durationSeconds": 343,
       "assetPath": "https://pub-d39fe02d85cc4b049db527184ba0693d.r2.dev/classic/classic-005.m4a",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "classic_006",
@@ -182,7 +182,7 @@
       "category": "classic",
       "durationSeconds": 339,
       "assetPath": "https://pub-d39fe02d85cc4b049db527184ba0693d.r2.dev/classic/classic-006.m4a",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "classic_007",
@@ -190,7 +190,7 @@
       "category": "classic",
       "durationSeconds": 309,
       "assetPath": "https://pub-d39fe02d85cc4b049db527184ba0693d.r2.dev/classic/classic-007.m4a",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "classic_008",
@@ -198,7 +198,7 @@
       "category": "classic",
       "durationSeconds": 229,
       "assetPath": "https://pub-d39fe02d85cc4b049db527184ba0693d.r2.dev/classic/classic-008.m4a",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "classic_009",
@@ -206,7 +206,7 @@
       "category": "classic",
       "durationSeconds": 290,
       "assetPath": "https://pub-d39fe02d85cc4b049db527184ba0693d.r2.dev/classic/classic-009.m4a",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "classic_010",
