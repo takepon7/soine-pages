@@ -207,6 +207,14 @@
       "durationSeconds": 290,
       "assetPath": "https://pub-d39fe02d85cc4b049db527184ba0693d.r2.dev/classic/classic-009.m4a",
       "isNew": true
+    },
+    {
+      "id": "classic_010",
+      "title": "夜想曲 Op.27-2 変ニ長調 ショパン",
+      "category": "classic",
+      "durationSeconds": 377,
+      "assetPath": "https://pub-d39fe02d85cc4b049db527184ba0693d.r2.dev/classic/classic-010.m4a",
+      "isNew": true
     }
   ]
 }
