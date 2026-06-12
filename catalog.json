@@ -215,6 +215,14 @@
       "durationSeconds": 377,
       "assetPath": "https://pub-d39fe02d85cc4b049db527184ba0693d.r2.dev/classic/classic-010.m4a",
       "isNew": true
+    },
+    {
+      "id": "classic_011",
+      "title": "夜想曲 Op.9-1 変ロ短調 ショパン",
+      "category": "classic",
+      "durationSeconds": 337,
+      "assetPath": "https://pub-d39fe02d85cc4b049db527184ba0693d.r2.dev/classic/classic-011.m4a",
+      "isNew": true
     }
   ]
 }
